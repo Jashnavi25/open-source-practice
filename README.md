@@ -18,7 +18,7 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 ## open-source-practice Pull Requests
 
-Repository for you to raise a Pull Request to **practice** open-source! 🎉
+Repository for practicing how to create and submit Pull Requests. 🎉
 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
